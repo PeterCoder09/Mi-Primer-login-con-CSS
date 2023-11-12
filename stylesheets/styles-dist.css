@@ -72,6 +72,7 @@ body{
 	border-radius: 1rem;
 	border: none;
 	box-shadow: 0.2rem 0.2rem #ffffff86;
+	cursor: pointer;
 }
 
 .fmr form{
